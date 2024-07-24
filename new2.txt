@@ -1,1 +1,1 @@
-committing from branch3
+merge resolved from branch 1
